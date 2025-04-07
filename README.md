@@ -1,6 +1,6 @@
 # Online Shopping - Testes Automatizados com Cypress e Cucumber
 
-Este projeto contém testes automatizados para o site [Automation Exercise](https://automationexercise.com), utilizando **Cypress** e **Cucumber** para validação de funcionalidades.
+Este projeto contém testes automatizados E2E para o site [Automation Exercise](https://automationexercise.com), com a funcionalidade de Cadastro, utilizando **Cypress** e **Cucumber** para validação de funcionalidades.
 
 ## 📋 Pré-requisitos
 
